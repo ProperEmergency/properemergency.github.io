@@ -14,8 +14,8 @@ let ctx = canvas.getContext("2d");;
 // Build the logo object.
 let logo = 
 {
-    x: 600,
-    y: 800,
+    x: 200,
+    y: 300,
     xspeed: 3,
     yspeed: 3,
 	scale: 0.5,
